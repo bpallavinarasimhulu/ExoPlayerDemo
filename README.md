@@ -17,3 +17,9 @@ and that is display and the current position and
 playback positon to it
 and i have created the on saveinstances method
 
+## Requiered
+* Android Studio
+* java
+
+##Dependencies
+* [Android Studio](https://developer.android.com/studio/install)
